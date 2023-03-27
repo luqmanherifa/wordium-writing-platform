@@ -5,5 +5,7 @@
     <p><a class="hover:text-newjeans {{ Request::is('about') ? 'text-newjeans' : '' }}" href="/about">About</a></p>
     <p><a class="hover:text-newjeans {{ Request::is('categories') ? 'text-newjeans' : '' }}" href="/categories">Categories</a></p>
   </div>
-  <figure><img src="https://source.unsplash.com/320x320?" /></figure>
+  <a href="/dashboard">
+    <figure><img src="img/start.png" /></figure>
+  </a>
 </div>

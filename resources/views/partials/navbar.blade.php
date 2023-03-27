@@ -4,7 +4,7 @@
     <div class="dropdown dropdown-end pr-2 lg:pr-5">
       <label tabindex="0" class="btn btn-ghost btn-circle avatar">
         <div class="w-10 rounded-full">
-          <img src="https://pbs.twimg.com/media/FatVn0FWIAMjDPZ?format=jpg&name=large" style="width: 100px; height: 100px;" />
+          <img src="img/profile.png" class="object-cover" />
         </div>
       </label>
       <ul tabindex="0" class="mt-3 p-2 shadow menu menu-compact dropdown-content bg-base-100 rounded-box w-52">

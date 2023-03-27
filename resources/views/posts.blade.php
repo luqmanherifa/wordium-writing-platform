@@ -11,9 +11,7 @@
     <input type="hidden" name="author" value="{{ request('author') }}">
     @endif
     <div class="mb-5">
-      <input type="text" placeholder="Search"
-        class="input input-bordered form-control w-full rounded-full focus:border-newjeans focus:outline-none"
-        name="search" value="{{ request('search') }}" />
+      <input type="text" placeholder="Search" class="input input-bordered form-control w-full rounded-full focus:border-newjeans focus:outline-none" name="search" value="{{ request('search') }}" />
     </div>
   </form>
 </div>
@@ -27,7 +25,7 @@
           {{$post->author->name}}
         </div>
       </a>
-      <a href=" /posts?category={{ $post->category->slug }}">
+      <a href="/posts?category={{ $post->category->slug }}">
         <div class="badge bg-newjeans hover:bg-smalt text-white border-newjeans hover:border-smalt">
           {{$post->category->name}}
         </div>
@@ -43,13 +41,10 @@
         </div>
         <div>
           @if ($post->image)
-          <figure class="w-20 h-20 lg:w-36 lg:h-36 mt-2 lg:mt-0"><img src="{{ asset('storage/' . $post->image) }}"
-              class="object-cover w-20 h-20 lg:w-36 lg:h-36" />
+          <figure class="w-20 h-20 lg:w-36 lg:h-36 mt-2 lg:mt-0"><img src="{{ asset('storage/' . $post->image) }}" class="object-cover w-20 h-20 lg:w-36 lg:h-36" />
           </figure>
           @else
-          <figure class="w-20 h-20 lg:w-36 lg:h-36 mt-2 lg:mt-0"><img
-              src="https://source.unsplash.com/1000x500?{{ $post->category->name }}"
-              class="object-cover w-20 h-20 lg:w-36 lg:h-36" />
+          <figure class="w-20 h-20 lg:w-36 lg:h-36 mt-2 lg:mt-0"><img src="https://source.unsplash.com/500x500?{{ $post->category->name }}" class="object-cover w-20 h-20 lg:w-36 lg:h-36" />
           </figure>
           @endif
         </div>
@@ -62,7 +57,7 @@
 @else
 <p>No post found.</p>
 @endif
-<div>
+<div class="flex justify-end pb-10">
   {{ $posts->links() }}
 </div>
 @endsection
