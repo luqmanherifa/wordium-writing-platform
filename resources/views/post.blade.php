@@ -1,7 +1,7 @@
 @extends('layouts/main')
 
 @section('container')
-<div class="max-w-2xl bg-base-100 border-b-2 pb-40">
+<div class="max-w-2xl bg-base-100 border-b-2 pb-20">
   <div>
     <div>
       <a href="/posts?author={{ $post->author->username}}">
@@ -21,12 +21,10 @@
         <h2 class="text-3xl font-bold mb-3">{{ $post->title }}</h2>
         <div class="mt-8 mb-10">
           @if ($post->image)
-          <figure class="w-80 lg:w-[40rem]"><img src="{{ asset('storage/' . $post->image) }}"
-              class="object-cover w-80 lg:w-[40rem]" />
+          <figure class="w-80 lg:w-[40rem]"><img src="{{ asset('storage/' . $post->image) }}" class="object-cover w-80 lg:w-[40rem]" />
           </figure>
           @else
-          <figure class="w-80 lg:w-[40rem]"><img src="https://source.unsplash.com/1280x720?{{ $post->category->name }}"
-              class="object-cover w-80 lg:w-[40rem]" /></figure>
+          <figure class="w-80 lg:w-[40rem]"><img src="https://source.unsplash.com/1280x720?{{ $post->category->name }}" class="object-cover w-80 lg:w-[40rem]" /></figure>
           @endif
         </div>
         <article class="lg:text-lg lg:leading-8">
