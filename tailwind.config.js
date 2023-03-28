@@ -7,6 +7,10 @@ module.exports = {
     ],
     theme: {
         extend: {
+            fontFamily: {
+                jakarta: ["Plus Jakarta Sans"],
+                playfair: ["Playfair Display"],
+            },
             colors: {
                 silver: "#757575",
                 newjeans: "#044FCF",

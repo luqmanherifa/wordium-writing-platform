@@ -57,7 +57,7 @@
 @else
 <p>No post found.</p>
 @endif
-<div class="flex justify-end pb-10">
+<div class="flex justify-end mt-5 pb-32">
   {{ $posts->links() }}
 </div>
 @endsection
