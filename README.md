@@ -53,3 +53,4 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
 
 ## Thanks to
   - [Sandhika Galih](https://www.youtube.com/@sandhikagalihWPU)
+  - [Medium](https://medium.com)
