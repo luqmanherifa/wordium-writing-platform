@@ -12,6 +12,7 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
 
 ### Libraries
   - Laravel
+  - Blade
   - Tailwind CSS
   - daisyUI
   - Bootstrap
