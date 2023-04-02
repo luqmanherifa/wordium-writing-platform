@@ -41,6 +41,7 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
 ## Design
 ### Font
   - [Inter](https://fonts.google.com/specimen/Inter)
+  - [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
 
 ### Color
   - ![#044FCF](https://placehold.co/20x20/044FCF/044FCF.png)  #044FCF
