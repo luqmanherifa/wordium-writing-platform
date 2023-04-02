@@ -28,7 +28,7 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
 - ### Font
   - [Inter](https://fonts.google.com/specimen/Inter)
 
-- ### Colors
+- ### Color
   - ![#044FCF](https://placehold.co/20x20/044FCF/044FCF.png)  #044FCF
 
 - ### Tools
