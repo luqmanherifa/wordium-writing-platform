@@ -25,7 +25,7 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
   - Visual Studio Code
 
 ## Design
-- ### Fonts
+- ### Font
   - [Inter](https://fonts.google.com/specimen/Inter)
 
 - ### Colors
