@@ -8,7 +8,6 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
 ### Languages
   - PHP
   - JavaScript
-
   - HTML/CSS
 
 ### Libraries
@@ -25,7 +24,7 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
   - Visual Studio Code
 
 ## Design
-- ### Font
+### Font
   - [Inter](https://fonts.google.com/specimen/Inter)
 
 ### Color
@@ -35,7 +34,7 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
   - Figma
 
 ## Build
-- ### Platform
+### Platform
   - Web
 
 ### Responsive
