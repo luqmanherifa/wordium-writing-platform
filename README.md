@@ -28,21 +28,21 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
 - ### Font
   - [Inter](https://fonts.google.com/specimen/Inter)
 
-- ### Color
+### Color
   - ![#044FCF](https://placehold.co/20x20/044FCF/044FCF.png)  #044FCF
 
-- ### Tools
+### Tools
   - Figma
 
 ## Build
 - ### Platform
   - Web
 
-- ### Responsive
+### Responsive
   - Desktop
   - Mobile
 
-- ### Date created
+### Date created
   - March 2023
 
 ## Social
