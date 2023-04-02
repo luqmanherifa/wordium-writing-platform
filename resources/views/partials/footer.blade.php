@@ -1,5 +1,5 @@
 <div class="bg-stone-900">
-  <div class="mx-auto max-w-xs py-10 lg:flex lg:max-w-5xl lg:justify-between lg:py-16">
+  <div class="mx-auto max-w-[22rem] pt-6 pb-4 lg:flex lg:max-w-[69rem] lg:justify-between lg:pt-10 lg:pb-8">
     <div>
       <a href="">
         <p class="text-2xl font-extrabold text-newjeans hover:text-smalt font-playfair">
@@ -47,7 +47,7 @@
       </div>
     </div>
   </div>
-  <div class="flex justify-center pb-10">
+  <div class="flex justify-center pb-6 lg:pb-10">
     <a href="https://github.com/luqmanherifa" target="_blank">
       <p class="p-3 text-xs text-white hover:text-newjeans">
         © 2023 • Built by Luqman Herifa

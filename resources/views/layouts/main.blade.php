@@ -18,8 +18,8 @@
 
   <div class="max-w-[22rem] lg:max-w-7xl mx-auto">
     <div class="flex justify-center">
-      <div class="lg:w-[45rem] border-r-0 lg:border-r-2 pt-6 lg:pt-10 flex lg:justify-end pr-0 lg:pr-12">
-        <div class="flex flex-col w-30 lg:w-[40rem] min-h-screen">
+      <div class="border-r-0 lg:border-r-2 pt-6 lg:pt-10 flex lg:justify-end pr-0 lg:pr-12">
+        <div class="flex flex-col w-30 min-h-screen lg:w-[42rem]">
           @yield('container')
         </div>
       </div>

@@ -17,14 +17,16 @@
       <div class="badge badge-outline text-silver border-silver">{{ $post->created_at->diffForHumans() }}</div>
     </div>
     <div class="mt-8">
-      <div class="lg:w-[40rem]">
+      <div>
         <h2 class="text-3xl font-bold mb-3">{{ $post->title }}</h2>
         <div class="mt-8 mb-10">
           @if ($post->image)
-          <figure class="w-80 lg:w-[40rem]"><img src="{{ asset('storage/' . $post->image) }}" class="object-cover w-80 lg:w-[40rem]" />
+          <figure class="w-[22rem] lg:w-[42rem]"><img src="{{ asset('storage/' . $post->image) }}"
+              class="object-cover w-[22rem] lg:w-[42rem]" />
           </figure>
           @else
-          <figure class="w-80 lg:w-[40rem]"><img src="https://source.unsplash.com/1280x720?{{ $post->category->name }}" class="object-cover w-80 lg:w-[40rem]" /></figure>
+          <figure class="w-80 lg:w-[42rem]"><img src="https://source.unsplash.com/1280x720?{{ $post->category->name }}"
+              class="object-cover w-80 lg:w-[42rem]" /></figure>
           @endif
         </div>
         <article class="lg:text-lg lg:leading-8">
