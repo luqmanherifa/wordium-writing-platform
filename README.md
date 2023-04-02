@@ -39,7 +39,7 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
   - Sign up
 
 ## Design
-### Font
+### Fonts
   - [Inter](https://fonts.google.com/specimen/Inter)
   - [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
 
