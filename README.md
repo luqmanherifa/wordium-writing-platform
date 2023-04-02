@@ -33,6 +33,7 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
   - Update Post
   - Delete Post
   - Search Post
+  - Post Detail
   - Pagination
   - Log in
   - Sign up
