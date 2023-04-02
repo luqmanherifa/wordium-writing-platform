@@ -24,15 +24,16 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
   - Visual Studio Code
 
 ### Features
+  - Home Page
+  - Dashboard Page
+  - About Page
+  - Categories Page
   - Create Post
   - Read Post
   - Update Post
   - Delete Post
   - Search Post
-  - Home Page
-  - Dashboard Page
-  - About Page
-  - Categories Page
+  - Pagination
   - Log in
   - Sign up
 
