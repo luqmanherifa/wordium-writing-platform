@@ -20,6 +20,9 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
 ### Database
   - MySQL
 
+### Tools
+  - Visual Studio Code
+
 ### Features
   - Create Post
   - Read Post
@@ -32,9 +35,6 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
   - Categories Page
   - Log in
   - Sign up
-
-### Tools
-  - Visual Studio Code
 
 ## Design
 ### Font
