@@ -20,6 +20,19 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
 ### Database
   - MySQL
 
+### Features
+  - Create Post
+  - Read Post
+  - Update Post
+  - Delete Post
+  - Search Post
+  - Home Page
+  - Dashboard Page
+  - About Page
+  - Categories Page
+  - Log in
+  - Sign up
+
 ### Tools
   - Visual Studio Code
 
