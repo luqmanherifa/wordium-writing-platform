@@ -5,23 +5,23 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
 ![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/src/images/web_wordium.png)
 
 ## Software
-- ### Languages
+### Languages
   - PHP
   - JavaScript
 
   - HTML/CSS
 
-- ### Libraries
+### Libraries
   - Laravel
   - Tailwind CSS
   - daisyUI
   - Bootstrap
   - Google Fonts
 
-- ### Database
+### Database
   - MySQL
 
-- ### Tools
+### Tools
   - Visual Studio Code
 
 ## Design
