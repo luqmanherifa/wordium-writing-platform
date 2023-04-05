@@ -61,6 +61,14 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
 ### Date created
   - March 2023
 
+### How to run
+```
+npm run watch
+```
+```
+php artisan serve
+```
+
 ## Social
   - [Email](mailto:luqmanherifa@gmail.com)
   - [Instagram](https://www.instagram.com/luqmanherifa)
