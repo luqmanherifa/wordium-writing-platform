@@ -62,7 +62,7 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
   - March 2023
 
 ### How to run
-  - npm
+  - Tailwind CSS
 ```
 npm run watch
 ```
