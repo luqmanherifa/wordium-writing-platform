@@ -62,9 +62,11 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
   - March 2023
 
 ### How to run
+  - npm
 ```
 npm run watch
 ```
+  - Laravel
 ```
 php artisan serve
 ```
