@@ -70,7 +70,6 @@ npm run watch
 ```
 php artisan serve
 ```
-
 ## Social
   - [Email](mailto:luqmanherifa@gmail.com)
   - [Instagram](https://www.instagram.com/luqmanherifa)
