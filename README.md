@@ -2,8 +2,7 @@
 Wordium is a writing platform contains story, knowledge, and perspective, post submit and edit features based on web. The project was developed for practicing Laravel and CRUD using Laravel, Blade, Tailwind CSS, daisyUI, MySQL, and others.
 
 ## Display
-![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/src/images/web_wordium.png)
-<img src="https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/src/images/web_wordium.png" width="500"><img src="https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/src/images/web_wordium.png" width="500">
+<img src="https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/src/images/web_wordium.png" width="1000">
 
 ## Software
 ### Languages
