@@ -3,7 +3,7 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
 
 ## Display
 ![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/src/images/web_wordium.png)
-<img src="https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/src/images/web_wordium.png" width="100">
+<img src="https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/src/images/web_wordium.png" width="500">
 
 ## Software
 ### Languages
