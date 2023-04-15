@@ -3241,9 +3241,6 @@ html {
 .pl-12 {
   padding-left: 3rem;
 }
-.pl-2 {
-  padding-left: 0.5rem;
-}
 .pl-3 {
   padding-left: 0.75rem;
 }
@@ -3431,10 +3428,6 @@ body {
     justify-content: flex-end;
   }
 
-  .lg\:justify-center {
-    justify-content: center;
-  }
-
   .lg\:justify-between {
     justify-content: space-between;
   }
@@ -3445,6 +3438,10 @@ body {
 
   .lg\:border-r-2 {
     border-right-width: 2px;
+  }
+
+  .lg\:pb-10 {
+    padding-bottom: 2.5rem;
   }
 
   .lg\:pb-14 {
@@ -3469,14 +3466,6 @@ body {
 
   .lg\:pt-10 {
     padding-top: 2.5rem;
-  }
-
-  .lg\:pt-12 {
-    padding-top: 3rem;
-  }
-
-  .lg\:pb-10 {
-    padding-bottom: 2.5rem;
   }
 
   .lg\:text-base {
