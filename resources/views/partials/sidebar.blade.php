@@ -6,6 +6,6 @@
     <p><a class="hover:text-newjeans {{ Request::is('categories') ? 'text-newjeans' : '' }}" href="/categories">Categories</a></p>
   </div>
   <a href="/dashboard">
-    <figure><img src="img/start.png" /></figure>
+    <figure><img src="https://raw.githubusercontent.com/luqmanherifa/wordium-writing-platform/main/public/img/start.png" /></figure>
   </a>
 </div>
