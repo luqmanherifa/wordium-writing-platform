@@ -6,13 +6,13 @@
 
 ## Software
 ### Languages
-  - PHP
   - JavaScript
+  - PHP
   - HTML/CSS
 
 ### Libraries
-  - Laravel
   - Blade
+  - Laravel
   - Tailwind CSS
   - daisyUI
   - Bootstrap
