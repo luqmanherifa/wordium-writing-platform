@@ -71,12 +71,6 @@ npm run watch
 php artisan serve
 ```
 
-## Social
-  - [Email](mailto:luqmanherifa@gmail.com)
-  - [Instagram](https://www.instagram.com/luqmanherifa)
-  - [LinkedIn](https://www.linkedin.com/in/luqmanherifa)
-  - [Dribbble](https://dribbble.com/luqmanherifa)
-
 ## Thanks to
   - [Sandhika Galih](https://www.youtube.com/@sandhikagalihWPU)
   - [Medium](https://medium.com)
