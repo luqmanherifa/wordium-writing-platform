@@ -16,7 +16,6 @@
   - Tailwind CSS
   - daisyUI
   - Bootstrap
-  - Google Fonts
 
 ### Database
   - MySQL
