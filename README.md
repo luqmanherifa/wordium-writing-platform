@@ -24,21 +24,6 @@
 ### Tools
   - Visual Studio Code
 
-### Features
-  - Home Page
-  - Dashboard Page
-  - About Page
-  - Categories Page
-  - Create Post
-  - Read Post
-  - Update Post
-  - Delete Post
-  - Search Post
-  - Post Detail
-  - Pagination
-  - Log in
-  - Sign up
-
 ## Design
 ### Fonts
   - [Inter](https://fonts.google.com/specimen/Inter)
