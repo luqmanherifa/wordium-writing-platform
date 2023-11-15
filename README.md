@@ -1,7 +1,7 @@
 # Wordium: Writing Platform
 
-## Display
-![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/wordium.png)
+## Interface
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/wordium.png)
   - [Trailer](https://youtu.be/wsGFfr5GPbw)
 
 ## Software
