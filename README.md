@@ -10,10 +10,12 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
   - PHP
   - HTML/CSS
 
-### Libraries
-  - Blade
+### Frameworks
   - Laravel
   - Tailwind CSS
+
+### Libraries
+  - Blade
   - daisyUI
   - Bootstrap
 
