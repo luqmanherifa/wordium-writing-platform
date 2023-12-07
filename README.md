@@ -40,7 +40,7 @@ Wordium is a writing platform contains story, knowledge, and perspective, post s
 ### Platform
   - Web
 
-### Deployment
+### Live
   - [YouTube](https://youtu.be/wsGFfr5GPbw)
 
 ### Responsive
